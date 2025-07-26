@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Fida Ur Rehman</h1>
 
 <p align="center">
-  💻 Full-stack Web Developer • 🛡 Cybersecurity Specialist • 👨‍💼 Owner @RandomSyncOrg
+  💻 Full-stack Web Developer • 🛡 Cybersecurity Specialist • 👑 Owner <a href="https://github.com/RandomSyncOrg" target="_blank">@RandomSyncOrg</a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔧 I build bots, dashboards, and full-stack web applications  
 - 🔐 Strong focus on secure development & real-world cybersecurity  
-- 🧠 Currently exploring **React** and **Rust** to level up cross-platform development  
+- 🧠 Currently exploring **React**, **Tauri** and **Rust** to level up cross-platform development  
 - 🛠 Experienced with:  
   `Python`, `Django`, `Flask`, `HTML`, `CSS`, `JavaScript`, `SQL`, `Discord.js`, `Git`, `Linux`
 
@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 - 🤖 **Discord Moderation & Ticket Bot** – Automated bot for managing communities  
 - 💰 **SimCoin Bot + Dashboard** – Economy system with web panel  
 - 🎮 **FGame (Django Game Hub)** – Text-based mini-games in a secure environment  
-- 🧩 **CyberLearn Hub (Planned)** – Educational platform for tech learners  
+- 🧩 **CyberLearn Hub (Planned)** – Educational platform for tech learners
+- 🧪 Many experiments with bots, dashboards, and automation
+- and many more..
 
 ---
 
@@ -61,11 +63,30 @@ Here are some ideas to get you started:
 
 ---
 
+### 🔒 TryHackMe Badges
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/F1D4URR3HM4N160.png" alt="TryHackMe Badge">
+</p>
+
+---
+
+### 🌐 Portfolio  
+
+React + Django-powered portfolio is **under development** and will be deployed here soon:
+
+📍 **Coming soon at [https://fidaurrehman160.github.io](https://fidaurrehman160.github.io)
+
+---
+
 ### 🔗 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1231178479093940245)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-%23DD4B39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidaurrehman160+profile@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1231178479093940245)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f1d4urr3hm4n0ff1c14l)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562376981391)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@fidaurrehman160)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fidaurrehman160)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidaurrehman160+profile@gmail.com)
 
 ---
 
