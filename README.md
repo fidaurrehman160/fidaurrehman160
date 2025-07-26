@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fidaurrehman160&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidaurrehman160&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=bulletgg&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
