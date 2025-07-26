@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11IO07L)
+
 ### 🚀 About Me
 
 - 🔧 I build bots, dashboards, and full-stack web applications  
