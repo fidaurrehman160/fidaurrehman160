@@ -76,9 +76,13 @@ Here are some ideas to get you started:
 
 ### 🌐 Portfolio  
 
-React + Django-powered portfolio is **under development** and will be deployed here soon:
+<!-- React + Django-powered portfolio is **under development** and will be deployed here soon:
 
-📍 **Coming soon at [https://fidaurrehman160.github.io](https://fidaurrehman160.github.io)
+📍 **Coming soon at [https://fidaurrehman160.github.io](https://fidaurrehman160.github.io) -->
+
+It is under development. 
+
+You can visit at [fida.qzz.io](https://fida.qzz.io/)
 
 ---
 
@@ -89,7 +93,7 @@ React + Django-powered portfolio is **under development** and will be deployed h
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562376981391)  
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@fidaurrehman160)  
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fidaurrehman160)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidaurrehman160+profile@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidaurrehman160+profile@qzz.io)
 
 ---
 
